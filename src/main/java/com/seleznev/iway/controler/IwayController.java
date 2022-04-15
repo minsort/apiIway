@@ -19,6 +19,7 @@ public class IwayController {
     @RequestMapping
     public List<IwayWebLink> getListOfProviders() throws URISyntaxException {
         return iwayService.findAll();
+
     }
 
 }

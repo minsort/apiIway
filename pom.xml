@@ -66,6 +66,12 @@
             <groupId>org.apache.httpcomponents</groupId>
             <artifactId>httpclient</artifactId>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.wildfly.security/wildfly-elytron-http-bearer -->
+        <dependency>
+            <groupId>org.wildfly.security</groupId>
+            <artifactId>wildfly-elytron-http-bearer</artifactId>
+        </dependency>
+
 
 
     </dependencies>

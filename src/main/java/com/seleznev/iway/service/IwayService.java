@@ -36,7 +36,4 @@ return new IwayWebLink(
         input.getCurrency(),
         input.getLang());
 }
-
-
-
 }
